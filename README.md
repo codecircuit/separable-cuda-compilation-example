@@ -1,4 +1,4 @@
-# Seperable Compilation
+# Separable Compilation
 
 ```
 gcc -O3 file.c -c -o file.o
