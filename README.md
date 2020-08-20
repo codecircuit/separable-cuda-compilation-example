@@ -10,3 +10,6 @@ There are now multiple ways to link the object files. Most simply with `nvcc`:
 ```
 nvcc file.o accelerated.o -o main
 ```
+
+For a better understanding read about Name Mangling, which is done by C++ but not by
+C compilers.
